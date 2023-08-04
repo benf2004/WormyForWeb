@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "A game like snake but more fun. Made with ❤️ by the Finch Family.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Squirmy Wormy",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "Squirmy Wormy",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "games"
+  ],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [
+    {
+      "name": "No",
+      "url": "phooey.foo",
+      "description": "shortcut.com"
+    }
+  ],
+  "lang": "en",
+  "display_override": [
+    "standalone",
+    "fullscreen",
+    "window-controls-overlay"
+  ]
+}

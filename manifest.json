@@ -4,7 +4,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "Squirmy Wormy",
-  "orientation": "landscape",
+  "orientation": "landscape-primary",
   "scope": "/",
   "short_name": "Squirmy Wormy",
   "start_url": "/",
